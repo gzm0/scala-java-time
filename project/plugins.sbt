@@ -20,3 +20,5 @@ addSbtPlugin("io.github.davidgregory084" % "sbt-tpolecat" % "0.1.16")
 addSbtPlugin("com.geirsson" % "sbt-ci-release" % "1.5.5")
 
 addSbtPlugin("ch.epfl.lamp" % "sbt-dotty" % "0.5.1")
+
+addSbtPlugin("com.typesafe" % "sbt-mima-plugin" % "0.8.1")
